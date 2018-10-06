@@ -11,49 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **B.Sc.** in Mechanical Engineering (Medical Technology), **Technical University of Munich**, 2008-2012
+  * Additionally completed 42 credits towards a Bachelor of Science in Physics at **Ludwig Maximilian University of Munich**
+* **M.Sc.** in Mechanical Engineering, (Medical Technology), **Technical University of Munich**, 2012-2014
+* **Masters Thesis**, Molecular Systems Lab, Wyss Institute, **Harvard University**, 2013-2014
+* **Ph.D. student** in Biophysics, **Ludwig Maximilian University of Munich** and **Max Planck Institute of Biochemistry**, since 2015
 
-Work experience
+Certifications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Career Track: **Data Scientist with Python**, Datacamp, 2018, [**Certificate**](https://www.datacamp.com/statement-of-accomplishment/track/b75b06b9df8c8d1818a015c6fd8afff60238f014)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nanodegree: **Artificial Intelligence**, Udacity, 2017, [**Certificate**](https://confirm.udacity.com/C4GG5MGM)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Course: **Machine Learning**, Coursera and Standford Online, 2017, [**Certificate**](https://www.coursera.org/account/accomplishments/certificate/29YGCTCJADN8)
