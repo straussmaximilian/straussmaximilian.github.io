@@ -18,6 +18,11 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 2018
 ======
 
+S. Kempter, A. Khmelinskaia, **M.T. Strauss**, P. Schwille, R. Jungmann, T. Liedl, W. Bae
+*Single Particle Tracking and Super-Resolution Imaging of Membrane-Assisted Stop-and-Go Diffusion and Lattice Assembly of DNA Origami*  
+[**ACS Nano**](https://dx.doi.org/10.1021/acsnano.8b04631) Accepted.
+
+---
 H. Heydarian, F. Schueder, **M.T. Strauss**, B. van Werkhoven, M. Fazel, K.A. Lidke, R. Jungmann, S. Stallinga, B. Rieger  
 *Template-free 2D particle fusion in localization microscopy*  
 [**Nature Methods**](https://dx.doi.org/10.1038/s41592-018-0136-6) (2018). 15: 781–784
@@ -25,7 +30,7 @@ H. Heydarian, F. Schueder, **M.T. Strauss**, B. van Werkhoven, M. Fazel, K.A. Li
 ---
 A. Auer, T. Schlichthaerle, J.B. Woehrstein, F. Schueder, **M.T. Strauss**, H. Grabmayr, R. Jungmann  
 *Nanometer-scale multiplexed super-resolution imaging with an economic 3D-DNA-PAINT microscope*  
-[**ChemPhysChem**](https://dx.doi.org/10.1002/cphc.201800630) (2018). Accepted for Publication.
+[**ChemPhysChem**](https://dx.doi.org/10.1002/cphc.201800630) (2018). 19(22): 3024–3034 
 
 ---
 S. Strauss, P.C. Nickels, **M.T. Strauss**, V.J. Sabinina, J. Ellenberg, J.D. Carter, S. Gupta, N. Janjic, R. Jungmann  
