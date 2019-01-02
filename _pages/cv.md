@@ -15,7 +15,7 @@ Education
   * Additionally completed 42 credits towards a Bachelor of Science in Physics at **Ludwig Maximilian University of Munich**
 * **M.Sc.** in Mechanical Engineering, (Medical Technology), **Technical University of Munich**, 2012-2014
 * **Masters Thesis**, Molecular Systems Lab, Wyss Institute, **Harvard University**, 2013-2014
-* **Ph.D. student** in Biophysics, **Ludwig Maximilian University of Munich** and **Max Planck Institute of Biochemistry**, since 2015
+* **Research Doctorate** in Physics, **Ludwig Maximilian University of Munich** and **Max Planck Institute of Biochemistry**, 2015-2018
 
 Certifications
 ======
