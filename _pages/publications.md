@@ -15,19 +15,17 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-Preprints
-======
----
-(19) T. Schlichthaerle\*, **M.T. Strauss\***, F. Schueder\*, A. Auer, B. Nijmeijer, M. Kueblbeck, V. Jimenez Sabinina, J. Ries, J. Ellenberg, R. Jungmann
-*Direct visualization of single nuclear pore complex proteins using genetically-encoded probes for DNA-PAINT*  
-[**bioRxiv**](https://dx.doi.org/10.1101/579961) 579961
-
 2019
 ======
 ---
+(19) T. Schlichthaerle\*, **M.T. Strauss\***, F. Schueder\*, A. Auer, B. Nijmeijer, M. Kueblbeck, V.J. Sabinina, J.V. Thevathasan, J. Ries, J. Ellenberg, R. Jungmann
+*Direct visualization of single nuclear pore complex proteins using genetically-encoded probes for DNA-PAINT*  
+[**Angewandte Chemie Int. Ed.**](https://dx.doi.org/10.1002/anie.201905685) Accepted.
+
+---
 (18) O.K. Wade\*, J.B. Woehrstein\*, P.C. Nickels\*, S. Strauss\*, F. Stehr, J. Stein, F. Schueder, **M.T. Strauss**, M. Ganji, J. Schnitzbauer, H. Grabmayr, P. Yin, P. Schwille, R. Jungmann
 *124-color super-resolution imaging by engineering DNA-PAINT blinking kinetics*  
-[**Nano Letters (2019)**](https://dx.doi.org/10.1021/acs.nanolett.9b00508). 19(4): 2641-2646
+[**Nano Letters**](https://dx.doi.org/10.1021/acs.nanolett.9b00508) (2019). 19(4): 2641-2646
 
 ---
 (17) S. Kempter, A. Khmelinskaia, **M.T. Strauss**, P. Schwille, R. Jungmann, T. Liedl, W. Bae
