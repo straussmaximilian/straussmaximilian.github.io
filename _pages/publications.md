@@ -18,9 +18,14 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 2019
 ======
 ---
+(20) C. Böger, A. Hafner, T. Schlichthaerle, **M.T. Strauss**, S. Malkusch, U. Endesfelder, R. Jungmann, E.M. Schuman°, M. Heilemann°  
+*Super-resolution imaging and estimation of protein copy numbers at single synapses with DNA-point accumulation for imaging in nanoscale topography*  
+[**Neurophotonics**](https://dx.doi.org/10.1117/1.NPh.6.3.035008) (2019). 6(3): 035008
+
+---
 (19) T. Schlichthaerle\*, **M.T. Strauss\***, F. Schueder\*, A. Auer, B. Nijmeijer, M. Kueblbeck, V.J. Sabinina, J.V. Thevathasan, J. Ries, J. Ellenberg, R. Jungmann  
 *Direct visualization of single nuclear pore complex proteins using genetically-encoded probes for DNA-PAINT*  
-[**Angewandte Chemie Int. Ed.**](https://dx.doi.org/10.1002/anie.201905685) Accepted.
+[**Angewandte Chemie Int. Ed.**](https://dx.doi.org/10.1002/anie.201905685) (2019). 58: 13004-13008
 
 ---
 (18) O.K. Wade\*, J.B. Woehrstein\*, P.C. Nickels\*, S. Strauss\*, F. Stehr, J. Stein, F. Schueder, **M.T. Strauss**, M. Ganji, J. Schnitzbauer, H. Grabmayr, P. Yin, P. Schwille, R. Jungmann  
