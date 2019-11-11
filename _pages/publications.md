@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 ======
 (21) F. Schueder, J. Stein, F. Stehr, A. Auer, B. Sperl, **M.T. Strauss**, P. Schwille, R. Jungmann  
 *An order of magnitude faster DNA-PAINT imaging by optimized sequence design and buffer conditions*  
-[**Nature Methods**](https://dx.doi.org/10.1038/s41592-019-0584-7) (2019). In press 
+[**Nature Methods**](https://dx.doi.org/10.1038/s41592-019-0584-7) (2019). 16: 1101–1104 
 
 ---
 (20) C. Böger, A. Hafner, T. Schlichthaerle, **M.T. Strauss**, S. Malkusch, U. Endesfelder, R. Jungmann, E.M. Schuman°, M. Heilemann°  
