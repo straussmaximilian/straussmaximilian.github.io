@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2020
 ======
-(23) J.M. Bader\*, P.E. Geyer\*, J.B. Müller, **M.T. Strauss**, M. Koch, F. Leypoldt, P. Koertvelyessy, D. Bittner, C.G. Schipke, E.I. Incesoy, O. Peters, N. Deigendesch, M. Simons, M.K. Jensen, H. Zetterberg, M. Mann
+(23) J.M. Bader\*, P.E. Geyer\*, J.B. Müller, **M.T. Strauss**, M. Koch, F. Leypoldt, P. Koertvelyessy, D. Bittner, C.G. Schipke, E.I. Incesoy, O. Peters, N. Deigendesch, M. Simons, M.K. Jensen, H. Zetterberg, M. Mann  
 *Proteome profiling in cerebrospinal fluid reveals novel biomarkers of Alzheimer's disease*  
 [**Molecular Systems Biology**](https://doi.org/10.15252/msb.20199356) (2020). 16: e9356
 
