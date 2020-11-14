@@ -17,6 +17,11 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2020
 ======
+(25) S.F.J. Wickham, A. Auer, J. Min, N. Ponnuswamy, J.B. Woehrstein, F. Schueder, **M.T. Strauss**, J. Schnitzbauer, B. Nathwani, Z. Zhao, S.D. Perrault, J. Hahn, S. Lee, M.M. Bastings, S.W. Helmig, A.L Kodal, P. Yin, R. Jungmann°, W.M. Shih°   
+*Complex multicomponent patterns rendered on a 3D DNA-barrel pegboard*  
+[**Nature Communications**](https://dx.doi.org/10.1038/s41467-020-18910-x) (2020). 11: 5768
+
+---
 (24) J.B. Mueller\*, P.E. Geyer\*, A.R. Colaço, P.V. Treit, **M.T. Strauss**, M. Oroshi, S. Doll, S.V. Winter, J.B. Bader, N. Koehler, F. Theis, A. Santos, M. Mann  
 *The proteome landscape of the kingdoms of life*  
 [**Nature**](https://doi.org/10.1038/s41586-020-2402-x) (2020)
