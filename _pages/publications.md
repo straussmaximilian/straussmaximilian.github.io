@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 ======
 (26) S.V. Winter\*, O. Karayel\*,  **M.T. Strauss**,  S. Padmanabhan, M Surface, K. Merchant, R. N. Alcalay, M. Mann°  
 *Urinary proteome profiling for stratifying patients with familial Parkinson’s disease*  
-[**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). 11: 5768
+[**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). e13257
 
 2020
 ======
