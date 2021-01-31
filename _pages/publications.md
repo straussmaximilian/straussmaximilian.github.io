@@ -15,6 +15,12 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+2021
+======
+(26) S.V. Winter\*, O. Karayel\*,  **M.T. Strauss**,  S. Padmanabhan, M Surface, K. Merchant, R. N. Alcalay, M. Mann°  
+*Urinary proteome profiling for stratifying patients with familial Parkinson’s disease*  
+[**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). 11: 5768
+
 2020
 ======
 (25) S.F.J. Wickham, A. Auer, J. Min, N. Ponnuswamy, J.B. Woehrstein, F. Schueder, **M.T. Strauss**, J. Schnitzbauer, B. Nathwani, Z. Zhao, S.D. Perrault, J. Hahn, S. Lee, M.M. Bastings, S.W. Helmig, A.L Kodal, P. Yin, R. Jungmann°, W.M. Shih°   
