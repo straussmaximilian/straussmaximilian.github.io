@@ -21,6 +21,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 Quantitative single-protein imaging reveals molecular complex formation of integrin, talin, and kindlin during cell adhesion
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21142-2) (2021). 12: 919
 
+---
 (26) S.V. Winter\*, O. Karayel\*,  **M.T. Strauss**,  S. Padmanabhan, M Surface, K. Merchant, R. N. Alcalay, M. Mann°  
 *Urinary proteome profiling for stratifying patients with familial Parkinson’s disease*  
 [**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). e13257
