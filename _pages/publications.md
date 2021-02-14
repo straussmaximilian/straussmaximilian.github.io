@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2021
 ======
-(27) L.S. Fischer*, C. Klingner*, T. Schlichthaerle*, **M.T. Strauss**, R. Böttcher, R. Fässler°, R. Jungmann°, C. Grashoff°
+(27) L.S. Fischer\*, C. Klingner\*, T. Schlichthaerle\*, **M.T. Strauss**, R. Böttcher, R. Fässler°, R. Jungmann°, C. Grashoff°
 Quantitative single-protein imaging reveals molecular complex formation of integrin, talin, and kindlin during cell adhesion
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21142-2) (2021). 12: 919
 
