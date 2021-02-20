@@ -17,8 +17,13 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2021
 ======
+(28) F. Meier\*, N. D. Köhler\*, A. Brunner\*, J. H. Wanka, E. Voytik, **M. T. Strauss**, F. J. Theis°, M. Mann° 
+*Deep learning the collisional cross sections of the peptide universe from a million experimental values*
+[**Nature Communications**](https://www.nature.com/articles/s41467-021-21352-8) (2021). 12: 1185
+
+---
 (27) L.S. Fischer\*, C. Klingner\*, T. Schlichthaerle\*, **M.T. Strauss**, R. Böttcher, R. Fässler°, R. Jungmann°, C. Grashoff°
-Quantitative single-protein imaging reveals molecular complex formation of integrin, talin, and kindlin during cell adhesion
+*Quantitative single-protein imaging reveals molecular complex formation of integrin, talin, and kindlin during cell adhesion*
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21142-2) (2021). 12: 919
 
 ---
