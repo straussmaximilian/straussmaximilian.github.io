@@ -40,7 +40,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 ---
 (24) J.B. Mueller\*, P.E. Geyer\*, A.R. Colaço, P.V. Treit, **M.T. Strauss**, M. Oroshi, S. Doll, S.V. Winter, J.B. Bader, N. Koehler, F. Theis, A. Santos, M. Mann  
 *The proteome landscape of the kingdoms of life*  
-[**Nature**](https://doi.org/10.1038/s41586-020-2402-x) (2020)
+[**Nature**](https://doi.org/10.1038/s41586-020-2402-x) (2020). 582, 592–596
 
 ---
 (23) J.M. Bader\*, P.E. Geyer\*, J.B. Muller, **M.T. Strauss**, M. Koch, F. Leypoldt, P. Koertvelyessy, D. Bittner, C.G. Schipke, E.I. Incesoy, O. Peters, N. Deigendesch, M. Simons, M.K. Jensen, H. Zetterberg, M. Mann  
