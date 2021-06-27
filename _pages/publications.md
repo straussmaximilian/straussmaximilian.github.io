@@ -50,7 +50,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 ---
 (22) A. Auer, **M.T. Strauss**, S. Strauss, R. Jungmann  
 *nanoTRON: a Picasso module for MLP-based classification of super-resolution data*  
-[**Bioinformatics**](https://dx.doi.org/10.1093/bioinformatics/btaa154) (2020). In press
+[**Bioinformatics**](https://dx.doi.org/10.1093/bioinformatics/btaa154) (2020). 20(09): 6732-6737
 
 2019
 ======
