@@ -17,6 +17,12 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2021
 ======
+
+(29) P.E. Geyer\*°, F.M. Arend, S. Doll, M.L. Louiset, S. Virreira Winter, J.B. Müller-Reif, F.M. Torun, M. Weigand, P. Eichhorn, M. Bruegel, **M. T. Strauss**, L.M. Holdt, M. Mann, D. Teupser°   
+*High-resolution serum proteome trajectories in COVID-19 reveal patient-specific seroconversion*  
+[**EMBO Mol Med**](https://doi.org/10.15252/emmm.202114167) (2021). e14167  
+
+---
 (28) F. Meier\*, N. D. Köhler\*, A. Brunner\*, J. H. Wanka, E. Voytik, **M. T. Strauss**, F. J. Theis°, M. Mann°   
 *Deep learning the collisional cross sections of the peptide universe from a million experimental values*  
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21352-8) (2021). 12: 1185  
