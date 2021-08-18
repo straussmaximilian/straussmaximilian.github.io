@@ -17,7 +17,11 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 
 2021
 ======
+(30) M. Mann°, C. Kumar°, W. Zeng°, **M. T. Strauss°**,  
+*Artificial intelligence for proteomics and biomarker discovery*  
+[**Cell Systems**](https://doi.org/10.1016/j.cels.2021.06.006) (2021). 12(8): 759-770
 
+---
 (29) P.E. Geyer\*°, F.M. Arend, S. Doll, M.L. Louiset, S. Virreira Winter, J.B. Müller-Reif, F.M. Torun, M. Weigand, P. Eichhorn, M. Bruegel, **M. T. Strauss**, L.M. Holdt, M. Mann, D. Teupser°   
 *High-resolution serum proteome trajectories in COVID-19 reveal patient-specific seroconversion*  
 [**EMBO Mol Med**](https://doi.org/10.15252/emmm.202114167) (2021). e14167  
