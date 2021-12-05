@@ -15,8 +15,18 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2021
+2021 (7)
 ======
+(32) E. Voytik, I. Bludau, S. Willems, F. M. Hansen, A. Brunner, **M. T. Strauss**, M. Mann°,  
+*AlphaMap: an open-source python package for the visual annotation of proteomics data with sequence specific knowledge*  
+[**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btab674) (2021).
+
+---
+(31) S. Willems, E. Voytik, P. Skowronek, **M. T. Strauss**, M. Mann°,  
+*AlphaTims: Indexing Trapped Ion Mobility Spectrometry–TOF Data for Fast and Easy Accession and Visualization*  
+[**MCP**](https://doi.org/10.1016/j.mcpro.2021.100149) (2021).
+
+---
 (30) M. Mann°, C. Kumar°, W. Zeng°, **M. T. Strauss°**,  
 *Artificial intelligence for proteomics and biomarker discovery*  
 [**Cell Systems**](https://doi.org/10.1016/j.cels.2021.06.006) (2021). 12(8): 759-770
@@ -41,7 +51,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 *Urinary proteome profiling for stratifying patients with familial Parkinson’s disease*  
 [**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). e13257  
 
-2020
+2020 (4)
 ======
 (25) S.F.J. Wickham, A. Auer, J. Min, N. Ponnuswamy, J.B. Woehrstein, F. Schueder, **M.T. Strauss**, J. Schnitzbauer, B. Nathwani, Z. Zhao, S.D. Perrault, J. Hahn, S. Lee, M.M. Bastings, S.W. Helmig, A.L Kodal, P. Yin, R. Jungmann°, W.M. Shih°   
 *Complex multicomponent patterns rendered on a 3D DNA-barrel pegboard*  
@@ -62,7 +72,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 *nanoTRON: a Picasso module for MLP-based classification of super-resolution data*  
 [**Bioinformatics**](https://dx.doi.org/10.1093/bioinformatics/btaa154) (2020). 20(09): 6732-6737
 
-2019
+2019 (5)
 ======
 (21) F. Schueder, J. Stein, F. Stehr, A. Auer, B. Sperl, **M.T. Strauss**, P. Schwille, R. Jungmann  
 *An order of magnitude faster DNA-PAINT imaging by optimized sequence design and buffer conditions*  
@@ -88,7 +98,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 *Single Particle Tracking and Super-Resolution Imaging of Membrane-Assisted Stop-and-Go Diffusion and Lattice Assembly of DNA Origami*  
 [**ACS Nano**](https://dx.doi.org/10.1021/acsnano.8b04631) (2019). 13(2): 996–1002
 
-2018
+2018 (8)
 ======
 ---
 (16) H. Heydarian, F. Schueder, **M.T. Strauss**, B. van Werkhoven, M. Fazel, K.A. Lidke, R. Jungmann, S. Stallinga, B. Rieger  
@@ -130,7 +140,7 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 *A molecular mechanism to recruit galectin-3 into multivesicular bodies for polarized exosomal secretion*  
 [**PNAS**](https://doi.org/10.1073/pnas.1718921115) (2018). 115(19): E4396-E4405
 
-2017
+2017 (6)
 ======
 ---
 (8) F. Schueder, J. Lara-Guitérrez, B.J. Beliveau, S.K. Saka, H.M. Sasaki, J.B. Woehrstein, **M.T. Strauss**, H. Grabmayr, P. Yin°, R. Jungmann°  
@@ -162,14 +172,14 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 *Universal Super-Resolution Multiplexing by DNA Exchange*  
 [**Angewandte Chemie Int. Ed.**](http://doi.org/10.1002/anie.201611729) (2017). 56: 4052-4055  
 
-2016
+2016 (1)
 ======
 ---
 (2) T. Schlichthaerle, **M.T. Strauss**, F. Schueder, J.B. Woehrstein, R. Jungmann  
 *DNA nanotechnology and fluorescence applications*  
 [**Current Opinion in Biotechnology**](http://dx.doi.org/10.1016/j.copbio.2015.12.014) (2016). 39: 41-47
 
-2015
+2015 (1)
 ======
 ---
 (1) J.B. Knudsen. L. Liu, A.L.B. Kodal, M. Madsen, Q. Li, J. Song, J.B. Woehrstein, S.F.J. Wickham, **M.T. Strauss**, F. Schueder, J. Vinther, A. Krissanaprasit, D. Gudnason, A.A.A. Smith, R. Ogaki, A.N. Zelikin, F. Besenbacher, V. Birkedal, P. Yin, W.M. Shih. R. Jungmann, M. Dong°, K.V. Gothelf°  
