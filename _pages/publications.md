@@ -15,6 +15,12 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+2022 (1)
+======
+(33) A. Santos°, A. R. Colaço, A. B. Nielsen, L. Niu, **M. T. Strauss**, P. E. Geyer, N. J. Wewer Albrechtsen, F. Mundt, L. J. Jensen, M. Mann°,  
+*A knowledge graph to interpret clinical proteomics data.*  
+[**Nature Biotechnology**](https://doi.org/10.1038/s41587-021-01145-6) (2022).
+
 2021 (7)
 ======
 (32) E. Voytik, I. Bludau, S. Willems, F. M. Hansen, A. Brunner, **M. T. Strauss**, M. Mann°,  
