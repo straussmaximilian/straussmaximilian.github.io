@@ -15,10 +15,15 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2022 (1)
+2022 (2)
 ======
+(34) I. Bludau, S. Willems, W. Zeng, **M. T. Strauss**, F. M. Hansen, M. C. Tanzer, O. Karayel, B. A. Schulman, M. Mann°,  
+*The structural context of posttranslational modifications at a proteome-wide scale*  
+[**PLoS Biol**](https://doi.org/10.1371/journal.pbio.3001636) (2022). 20(5): e3001636.
+
+---
 (33) A. Santos°, A. R. Colaço, A. B. Nielsen, L. Niu, **M. T. Strauss**, P. E. Geyer, N. J. Wewer Albrechtsen, F. Mundt, L. J. Jensen, M. Mann°,  
-*A knowledge graph to interpret clinical proteomics data.*  
+*A knowledge graph to interpret clinical proteomics data*  
 [**Nature Biotechnology**](https://doi.org/10.1038/s41587-021-01145-6) (2022).
 
 2021 (7)
