@@ -15,8 +15,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2022 (2)
+2022 (3)
 ======
+(35) L. Niu, M. Thiele, P. E. Geyer, D. N. Rasmussen, H. E. Webel, A. Santos, R. Gupta, F. Meier, **M. T. Strauss**, M. Kjaergaard, K. Lindvig, S. Jacobsen, S. Rasmussen, T. Hansen, A. Krag, M. Mann°, 
+*Noninvasive proteomic biomarkers for alcohol-related liver disease.*
+[**Nature Medicine**](https://doi.org/10.1038/s41591-022-01850-y) (2022).
+
+---
 (34) I. Bludau, S. Willems, W. Zeng, **M. T. Strauss**, F. M. Hansen, M. C. Tanzer, O. Karayel, B. A. Schulman, M. Mann°,  
 *The structural context of posttranslational modifications at a proteome-wide scale*  
 [**PLoS Biol**](https://doi.org/10.1371/journal.pbio.3001636) (2022). 20(5): e3001636.
