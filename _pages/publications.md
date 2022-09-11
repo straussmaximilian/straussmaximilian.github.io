@@ -15,8 +15,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2022 (3)
+2022 (4)
 ======
+(36) **M. T. Strauss°**, 
+*Picasso-server: a community-based, open-source processing framework for super-resolution data.*
+[**Communications Biology**](https://doi.org/10.1038/s42003-022-03909-5) (2022).
+
+---
 (35) L. Niu, M. Thiele, P. E. Geyer, D. N. Rasmussen, H. E. Webel, A. Santos, R. Gupta, F. Meier, **M. T. Strauss**, M. Kjaergaard, K. Lindvig, S. Jacobsen, S. Rasmussen, T. Hansen, A. Krag, M. Mann°, 
 *Noninvasive proteomic biomarkers for alcohol-related liver disease.*
 [**Nature Medicine**](https://doi.org/10.1038/s41591-022-01850-y) (2022).
