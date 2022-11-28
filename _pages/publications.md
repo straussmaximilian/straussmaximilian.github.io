@@ -15,11 +15,16 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2022 (5)
+2022 (6)
 ======
-(37) F. Torun, S. Virreira Winter, S. Doll, F. M. Riese, A. Vorobyev, J. B. Mueller-Reif, **M. T. Strauss°**, 
+(38) F. Torun, S. Virreira Winter, S. Doll, F. M. Riese, A. Vorobyev, J. B. Mueller-Reif, **M. T. Strauss°**, 
 *Transparent Exploration of Machine Learning for Biomarker Discovery from Proteomics and Omics Data.*
 [**Journal of Proteome Research**](https://doi.org/10.1021/acs.jproteome.2c00473) (2022).
+
+---
+(37) W. Zeng, X. Zhou, S. Willems, C. Ammar, M. Wahle, I. Bludau, E. Voytik, **M. T. Strauss**, M. Mann°, 
+*AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics.*
+[**Nature Communications**](https://doi.org/10.1038/s41467-022-34904-3) (2022).
 
 ---
 (36) **M. T. Strauss°**, 
