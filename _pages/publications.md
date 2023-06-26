@@ -15,6 +15,17 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+2023 (2)
+======
+(40) S. Lobentanzer°, P. Aloy, J. Baumbach, B. Bohar, V. J. Carey, P. Charoentong, K. Danhauser, T. Doğan, J. Dreo, I. Dunham, E. Farr, A. Fernandez-Torras, B. M. Gyori, M. Hartung, C. T. Hoyt, C. Klein, T. Korcsmaros, A. Maier, M. Mann, D. Ochoa, E. Pareja-Lorente, F. Popp, M. Preusse, N. Probul, B. Schwikowski, B. Sen, **M. T. Strauss**, D. Turei, E. Ulusoy, D. Waltemath, J. A. H. Wodke, J. Saez-Rodriguez° 
+*Democratizing knowledge representation with BioCypher*  
+[**Nature Biotechnology**](https://doi.org/10.1038/s41587-023-01848-y) (2023). 
+
+---
+(39) S. C. M. Reinhardt\*, L. Masullo\*, I. Baudrexel\*, P. R. Steen\*, R. Kowaleswki, A. E. Eklund, S. Strauss, E. M. Unterauer, T. Schlichthaerle,  **M. T. Strauss**,  C. Klein, R. Jungmann°  
+*Ångström-resolution fluorescence microscopy*  
+[**Nature**](https://doi.org/10.1038/s41586-023-05925-9) (2023).  
+
 2022 (6)
 ======
 (38) F. Torun, S. Virreira Winter, S. Doll, F. M. Riese, A. Vorobyev, J. B. Mueller-Reif, **M. T. Strauss°**, 
