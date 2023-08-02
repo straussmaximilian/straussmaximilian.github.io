@@ -15,8 +15,13 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2023 (2)
+2023 (3)
 ======
+(41) E. Krismer, I. Bludau, **M. T. Strauss°**, M. Mann° 
+*AlphaPeptStats: an open-source Python package for automated and scalable statistical analysis of mass spectrometry-based proteomics*  
+[**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btad461) (2023). 
+
+---
 (40) S. Lobentanzer°, P. Aloy, J. Baumbach, B. Bohar, V. J. Carey, P. Charoentong, K. Danhauser, T. Doğan, J. Dreo, I. Dunham, E. Farr, A. Fernandez-Torras, B. M. Gyori, M. Hartung, C. T. Hoyt, C. Klein, T. Korcsmaros, A. Maier, M. Mann, D. Ochoa, E. Pareja-Lorente, F. Popp, M. Preusse, N. Probul, B. Schwikowski, B. Sen, **M. T. Strauss**, D. Turei, E. Ulusoy, D. Waltemath, J. A. H. Wodke, J. Saez-Rodriguez° 
 *Democratizing knowledge representation with BioCypher*  
 [**Nature Biotechnology**](https://doi.org/10.1038/s41587-023-01848-y) (2023). 
