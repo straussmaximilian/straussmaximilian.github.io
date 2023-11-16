@@ -15,11 +15,16 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2023 (4)
+2023 (5)
 ======
-(42) F.A. Rosenberger, M. Thielert, **M. T. Strauss**,  L. Schweizer, C. Ammar, S. C. Mädler, A. Metousis, P. Skowronek, M. Wahle, K. Madden, J. Gote-Schniering, A. Semenova, H. B. Schiller, E. Rodriguez, T. M. Nordmann, A. Mund, M. Mann° 
+(43) A. C. Michaelis, A-D. Brunner, M. Zwiebel, F. Meier, **M. T. Strauss**, I. Bludau, M. Mann° 
+*The social and structural architecture of the yeast protein interactome*  
+[**Nature**](https://doi.org/10.1038/s41586-023-06739-5) (2023). 
+
+---
+(42) F. A. Rosenberger, M. Thielert, **M. T. Strauss**,  L. Schweizer, C. Ammar, S. C. Mädler, A. Metousis, P. Skowronek, M. Wahle, K. Madden, J. Gote-Schniering, A. Semenova, H. B. Schiller, E. Rodriguez, T. M. Nordmann, A. Mund, M. Mann° 
 *Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome*  
-[**Nature Methods**]https://doi.org/10.1038/s41592-023-02007-6 (2023). 
+[**Nature Methods**](https://doi.org/10.1038/s41592-023-02007-6) (2023). 
 
 ---
 (41) E. Krismer, I. Bludau, **M. T. Strauss°**, M. Mann° 
