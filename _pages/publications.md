@@ -15,6 +15,12 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
+2024 (1)
+======
+(44) **M. T. Strauss°**, I. Bludau, W. Zeng, E. Voytik, C. Ammar, J. P. Schessner, I. Rajesh, M. Gill, F. Meier, S. Willems, M. Mann° 
+*AlphaPept: a modern and open framework for MS-based proteomics*  
+[**Nature Communications**](https://doi.org/10.1038/s41467-024-46485-4) (2024) 
+
 2023 (5)
 ======
 (43) A. C. Michaelis, A-D. Brunner, M. Zwiebel, F. Meier, **M. T. Strauss**, I. Bludau, M. Mann° 
