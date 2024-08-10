@@ -13,7 +13,7 @@ author_profile: true
 
 \*: Co-first, °: Co-corresponding
 
-You can also find my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+This page is no longer updated. You can find all my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 2024 (1)
 ======
