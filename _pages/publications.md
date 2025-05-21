@@ -15,92 +15,107 @@ author_profile: true
 
 This page is no longer updated. You can find all my articles on <u><a href="https://scholar.google.de/citations?user=rafEIrMAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-2024 (1)
+2024 (4)
 ======
-(44) **M. T. Strauss°**, I. Bludau, W. Zeng, E. Voytik, C. Ammar, J. P. Schessner, I. Rajesh, M. Gill, F. Meier, S. Willems, M. Mann° 
+(47) T.M. Nordmann, H. Anderton, A. Hasegawa, L. Schweizer, P. Zhang, P. Stadler, A. Sinha, A. Metousis, F.A. Rosenberger, M. Zwiebel, T.K. Satoh, F. Anzengruber, **M.T. Strauss**, M.C. Tanzer, Y. Saito, T. Gong, M. Thielert, H. Kimura, N. Silke, E.H. Rodriguez, G. Restivo, H.H. Nguyen, A. Gross, L. Feldmeyer, L. Joerg, M.P. Levesque, P.J. Murray, S. Ingen-Housz-Oro, A. Mund, R. Abe, J. Silke, C. Ji, L.E. French, M. Mann°  
+*Spatial proteomics identifies JAKi as treatment for a lethal skin disease*  
+[**Nature**](https://doi.org/10.1038/s41586-024-08061-0) (2024).
+
+---
+(46) S. Kabatnik, F. Post, L. Drici, A.S. Bartels, **M.T. Strauss**, X. Zheng, G.I. Madsen, A. Mund, F.A. Rosenberger, J. Moreira, M. Mann°  
+*Spatial characterization and stratification of colorectal adenomas by deep visual proteomics*  
+[**iScience**](https://doi.org/10.1016/j.isci.2024.110620) (2024).
+
+---
+(45) P. Beltrao, T. Van Den Bossche, R. Gabriels, T. Holstein, T. Kockmann, A. Nameni, C. Panse, R. Schlapbach, L. Lautenbacher, M. Mattanovich, A. Nesvizhskii, B. Van Puyvelde, J. Scheid, V. Schwämmle, **M.T. Strauss**, A. Klimovskaia Susmelj, M. The, H. Webel, M. Wilhelm, D. Winkelhardt, W.E. Wolski, M. Xi  
+*Proceedings of the EuBIC-MS developers meeting 2023*  
+[**Journal of Proteomics**](https://doi.org/10.1016/j.jprot.2024.105246) (2024).
+
+---
+(44) **M.T. Strauss°**, I. Bludau, W. Zeng, E. Voytik, C. Ammar, J.P. Schessner, I. Rajesh, M. Gill, F. Meier, S. Willems, M. Mann° 
 *AlphaPept: a modern and open framework for MS-based proteomics*  
 [**Nature Communications**](https://doi.org/10.1038/s41467-024-46485-4) (2024) 
 
 2023 (5)
 ======
-(43) A. C. Michaelis, A-D. Brunner, M. Zwiebel, F. Meier, **M. T. Strauss**, I. Bludau, M. Mann° 
+(43) A.C. Michaelis, A-D. Brunner, M. Zwiebel, F. Meier, **M.T. Strauss**, I. Bludau, M. Mann° 
 *The social and structural architecture of the yeast protein interactome*  
 [**Nature**](https://doi.org/10.1038/s41586-023-06739-5) (2023). 
 
 ---
-(42) F. A. Rosenberger, M. Thielert, **M. T. Strauss**,  L. Schweizer, C. Ammar, S. C. Mädler, A. Metousis, P. Skowronek, M. Wahle, K. Madden, J. Gote-Schniering, A. Semenova, H. B. Schiller, E. Rodriguez, T. M. Nordmann, A. Mund, M. Mann° 
+(42) F.A. Rosenberger, M. Thielert, **M.T. Strauss**,  L. Schweizer, C. Ammar, S.C. Mädler, A. Metousis, P. Skowronek, M. Wahle, K. Madden, J. Gote-Schniering, A. Semenova, H.B. Schiller, E. Rodriguez, T.M. Nordmann, A. Mund, M. Mann° 
 *Spatial single-cell mass spectrometry defines zonation of the hepatocyte proteome*  
 [**Nature Methods**](https://doi.org/10.1038/s41592-023-02007-6) (2023). 
 
 ---
-(41) E. Krismer, I. Bludau, **M. T. Strauss°**, M. Mann° 
+(41) E. Krismer, I. Bludau, **M.T. Strauss°**, M. Mann° 
 *AlphaPeptStats: an open-source Python package for automated and scalable statistical analysis of mass spectrometry-based proteomics*  
 [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btad461) (2023). 
 
 ---
-(40) S. Lobentanzer°, P. Aloy, J. Baumbach, B. Bohar, V. J. Carey, P. Charoentong, K. Danhauser, T. Doğan, J. Dreo, I. Dunham, E. Farr, A. Fernandez-Torras, B. M. Gyori, M. Hartung, C. T. Hoyt, C. Klein, T. Korcsmaros, A. Maier, M. Mann, D. Ochoa, E. Pareja-Lorente, F. Popp, M. Preusse, N. Probul, B. Schwikowski, B. Sen, **M. T. Strauss**, D. Turei, E. Ulusoy, D. Waltemath, J. A. H. Wodke, J. Saez-Rodriguez° 
+(40) S. Lobentanzer°, P. Aloy, J. Baumbach, B. Bohar, V.J. Carey, P. Charoentong, K. Danhauser, T. Doğan, J. Dreo, I. Dunham, E. Farr, A. Fernandez-Torras, B.M. Gyori, M. Hartung, C.T. Hoyt, C. Klein, T. Korcsmaros, A. Maier, M. Mann, D. Ochoa, E. Pareja-Lorente, F. Popp, M. Preusse, N. Probul, B. Schwikowski, B. Sen, **M.T. Strauss**, D. Turei, E. Ulusoy, D. Waltemath, J.A.H. Wodke, J. Saez-Rodriguez° 
 *Democratizing knowledge representation with BioCypher*  
 [**Nature Biotechnology**](https://doi.org/10.1038/s41587-023-01848-y) (2023). 
 
 ---
-(39) S. C. M. Reinhardt\*, L. Masullo\*, I. Baudrexel\*, P. R. Steen\*, R. Kowaleswki, A. E. Eklund, S. Strauss, E. M. Unterauer, T. Schlichthaerle,  **M. T. Strauss**,  C. Klein, R. Jungmann°  
+(39) S.C.M. Reinhardt\*, L. Masullo\*, I. Baudrexel\*, P.R. Steen\*, R. Kowaleswki, A.E. Eklund, S. Strauss, E.M. Unterauer, T. Schlichthaerle,  **M.T. Strauss**,  C. Klein, R. Jungmann°  
 *Ångström-resolution fluorescence microscopy*  
 [**Nature**](https://doi.org/10.1038/s41586-023-05925-9) (2023).  
 
 2022 (6)
 ======
-(38) F. Torun, S. Virreira Winter, S. Doll, F. M. Riese, A. Vorobyev, J. B. Mueller-Reif, **M. T. Strauss°**, 
+(38) F. Torun, S. Virreira Winter, S. Doll, F.M. Riese, A. Vorobyev, J.B. Mueller-Reif, **M.T. Strauss°**, 
 *Transparent Exploration of Machine Learning for Biomarker Discovery from Proteomics and Omics Data.*
 [**Journal of Proteome Research**](https://doi.org/10.1021/acs.jproteome.2c00473) (2022).
 
 ---
-(37) W. Zeng, X. Zhou, S. Willems, C. Ammar, M. Wahle, I. Bludau, E. Voytik, **M. T. Strauss**, M. Mann°, 
+(37) W. Zeng, X. Zhou, S. Willems, C. Ammar, M. Wahle, I. Bludau, E. Voytik, **M.T. Strauss**, M. Mann°, 
 *AlphaPeptDeep: a modular deep learning framework to predict peptide properties for proteomics.*
 [**Nature Communications**](https://doi.org/10.1038/s41467-022-34904-3) (2022).
 
 ---
-(36) **M. T. Strauss°**, 
+(36) **M.T. Strauss°**, 
 *Picasso-server: a community-based, open-source processing framework for super-resolution data.*
 [**Communications Biology**](https://doi.org/10.1038/s42003-022-03909-5) (2022).
 
 ---
-(35) L. Niu, M. Thiele, P. E. Geyer, D. N. Rasmussen, H. E. Webel, A. Santos, R. Gupta, F. Meier, **M. T. Strauss**, M. Kjaergaard, K. Lindvig, S. Jacobsen, S. Rasmussen, T. Hansen, A. Krag, M. Mann°, 
+(35) L. Niu, M. Thiele, P.E. Geyer, D.N. Rasmussen, H.E. Webel, A. Santos, R. Gupta, F. Meier, **M.T. Strauss**, M. Kjaergaard, K. Lindvig, S. Jacobsen, S. Rasmussen, T. Hansen, A. Krag, M. Mann°, 
 *Noninvasive proteomic biomarkers for alcohol-related liver disease.*
 [**Nature Medicine**](https://doi.org/10.1038/s41591-022-01850-y) (2022).
 
 ---
-(34) I. Bludau, S. Willems, W. Zeng, **M. T. Strauss**, F. M. Hansen, M. C. Tanzer, O. Karayel, B. A. Schulman, M. Mann°,  
+(34) I. Bludau, S. Willems, W. Zeng, **M.T. Strauss**, F.M. Hansen, M.C. Tanzer, O. Karayel, B.A. Schulman, M. Mann°,  
 *The structural context of posttranslational modifications at a proteome-wide scale*  
 [**PLoS Biol**](https://doi.org/10.1371/journal.pbio.3001636) (2022). 20(5): e3001636.
 
 ---
-(33) A. Santos°, A. R. Colaço, A. B. Nielsen, L. Niu, **M. T. Strauss**, P. E. Geyer, N. J. Wewer Albrechtsen, F. Mundt, L. J. Jensen, M. Mann°,  
+(33) A. Santos°, A.R. Colaço, A.B. Nielsen, L. Niu, **M.T. Strauss**, P.E. Geyer, N.J. Wewer Albrechtsen, F. Mundt, L.J. Jensen, M. Mann°,  
 *A knowledge graph to interpret clinical proteomics data*  
 [**Nature Biotechnology**](https://doi.org/10.1038/s41587-021-01145-6) (2022).
 
 2021 (7)
 ======
-(32) E. Voytik, I. Bludau, S. Willems, F. M. Hansen, A. Brunner, **M. T. Strauss**, M. Mann°,  
+(32) E. Voytik, I. Bludau, S. Willems, F.M. Hansen, A. Brunner, **M.T. Strauss**, M. Mann°,  
 *AlphaMap: an open-source python package for the visual annotation of proteomics data with sequence specific knowledge*  
 [**Bioinformatics**](https://doi.org/10.1093/bioinformatics/btab674) (2021).
 
 ---
-(31) S. Willems, E. Voytik, P. Skowronek, **M. T. Strauss**, M. Mann°,  
+(31) S. Willems, E. Voytik, P. Skowronek, **M.T. Strauss**, M. Mann°,  
 *AlphaTims: Indexing Trapped Ion Mobility Spectrometry–TOF Data for Fast and Easy Accession and Visualization*  
 [**MCP**](https://doi.org/10.1016/j.mcpro.2021.100149) (2021).
 
 ---
-(30) M. Mann°, C. Kumar°, W. Zeng°, **M. T. Strauss°**,  
+(30) M. Mann°, C. Kumar°, W. Zeng°, **M.T. Strauss°**,  
 *Artificial intelligence for proteomics and biomarker discovery*  
 [**Cell Systems**](https://doi.org/10.1016/j.cels.2021.06.006) (2021). 12(8): 759-770
 
 ---
-(29) P.E. Geyer\*°, F.M. Arend, S. Doll, M.L. Louiset, S. Virreira Winter, J.B. Müller-Reif, F.M. Torun, M. Weigand, P. Eichhorn, M. Bruegel, **M. T. Strauss**, L.M. Holdt, M. Mann, D. Teupser°   
+(29) P.E. Geyer\*°, F.M. Arend, S. Doll, M.L. Louiset, S. Virreira Winter, J.B. Müller-Reif, F.M. Torun, M. Weigand, P. Eichhorn, M. Bruegel, **M.T. Strauss**, L.M. Holdt, M. Mann, D. Teupser°   
 *High-resolution serum proteome trajectories in COVID-19 reveal patient-specific seroconversion*  
 [**EMBO Mol Med**](https://doi.org/10.15252/emmm.202114167) (2021). e14167  
 
 ---
-(28) F. Meier\*, N. D. Köhler\*, A. Brunner\*, J. H. Wanka, E. Voytik, **M. T. Strauss**, F. J. Theis°, M. Mann°   
+(28) F. Meier\*, N.D. Köhler\*, A. Brunner\*, J.H. Wanka, E. Voytik, **M.T. Strauss**, F.J. Theis°, M. Mann°   
 *Deep learning the collisional cross sections of the peptide universe from a million experimental values*  
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21352-8) (2021). 12: 1185  
 
@@ -110,8 +125,8 @@ This page is no longer updated. You can find all my articles on <u><a href="http
 [**Nature Communications**](https://www.nature.com/articles/s41467-021-21142-2) (2021). 12: 919  
 
 ---
-(26) S.V. Winter\*, O. Karayel\*,  **M.T. Strauss**,  S. Padmanabhan, M Surface, K. Merchant, R. N. Alcalay, M. Mann°  
-*Urinary proteome profiling for stratifying patients with familial Parkinson’s disease*  
+(26) S.V. Winter\*, O. Karayel\*,  **M.T. Strauss**,  S. Padmanabhan, M Surface, K. Merchant, R.N. Alcalay, M. Mann°  
+*Urinary proteome profiling for stratifying patients with familial Parkinson's disease*  
 [**EMBO Mol Med**](https://doi.org/10.15252/emmm.202013257) (2021). e13257  
 
 2020 (4)
@@ -121,7 +136,7 @@ This page is no longer updated. You can find all my articles on <u><a href="http
 [**Nature Communications**](https://dx.doi.org/10.1038/s41467-020-18910-x) (2020). 11: 5768
 
 ---
-(24) J.B. Mueller\*, P.E. Geyer\*, A.R. Colaço, P.V. Treit, **M.T. Strauss**, M. Oroshi, S. Doll, S.V. Winter, J.B. Bader, N. Koehler, F. Theis, A. Santos, M. Mann  
+(24) J.B. Mueller \*, P.E. Geyer\*, A.R. Colaço, P.V. Treit, **M.T. Strauss**, M. Oroshi, S. Doll, S.V. Winter, J.B. Bader, N. Koehler, F. Theis, A. Santos, M. Mann  
 *The proteome landscape of the kingdoms of life*  
 [**Nature**](https://doi.org/10.1038/s41586-020-2402-x) (2020). 582, 592–596
 
